@@ -1,0 +1,8 @@
+Server IP:127.0.0.1
+server port:1234
+client port:2234
+file name:1.txt
+packet size:1000
+server timeout:129
+ack number to drop:5
+ack number to corrupt:5

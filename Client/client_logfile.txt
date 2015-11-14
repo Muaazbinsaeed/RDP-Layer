@@ -1,0 +1,59 @@
+OBTAINED: RTT 0
+OBTAINED: HandShaking
+SENT #: sent packet number #0
+SENT #: sent packet number #1
+SENT #: sent packet number #2
+SENT #: sent packet number #3
+SENT #: sent packet number #4
+SENT #: sent packet number #5
+ACK #: client received ACK #0
+ACK #: Successfully Recv
+ACK #: client received ACK #1
+ACK #: Successfully Recv
+ACK #: client received ACK #2
+ACK #: Successfully Recv
+ACK #: client received ACK #3
+ACK #: Successfully Recv
+ACK #: client received ACK #4
+ACK #: Successfully Recv
+ACK #: client received ACK #5
+ACK #: Successfully Recv
+SENT #: sent packet number #6
+SENT #: sent packet number #7
+SENT #: sent packet number #8
+SENT #: sent packet number #9
+SENT #: sent packet number #10
+SENT #: sent packet number #11
+ACK #: client received ACK #6
+ACK #: Successfully Recv
+ACK #: client received ACK #7
+ACK #: Successfully Recv
+ACK #: client received ACK #8
+ACK #: Successfully Recv
+ACK #: client received ACK #9
+ACK #: Successfully Recv
+ACK #: client received ACK #10
+ACK #: Successfully Recv
+ACK #: client received ACK #11
+ACK #: Successfully Recv
+SENT #: sent packet number #12
+SENT #: sent packet number #13
+SENT #: sent packet number #14
+SENT #: sent packet number #15
+SENT #: sent packet number #16
+SENT #: sent packet number #17
+ACK #: client received ACK #12
+ACK #: Successfully Recv
+ACK #: client received ACK #13
+ACK #: Successfully Recv
+ACK #: client received ACK #14
+ACK #: Successfully Recv
+ACK #: client received ACK #15
+ACK #: Successfully Recv
+ACK #: client received ACK #16
+ACK #: Successfully Recv
+ACK #: client received ACK #17
+ACK #: Successfully Recv
+SENT #: sent packet number #18
+ACK #: client received ACK #18
+ACK #: Successfully Recv

@@ -1,0 +1,5 @@
+server port:1234
+file name:1.txt
+packet size:1000
+packet number to drop:2
+packet number to corrupt:2
